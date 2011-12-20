@@ -1,0 +1,8 @@
+Testbench - ./testbench/ directory.
+Code - ./src/ directory.
+
+make compile TESTBENCH=counter_tb
+make run TESTBENCH=counter_tb
+make view TESTBENCH=counter_tb
+
+make all TESTBENCH=tb
