@@ -1,6 +1,9 @@
 Testbench - ./testbench/ directory.
 Code - ./src/ directory.
 
+Makefile i instrukcja ze strony: http://mbmn.net/uer/tutorials/vhdl-with-ghdl/
+Potrzebne programy: ghdl, gtkwave, make
+
 make compile TESTBENCH=counter_tb
 make run TESTBENCH=counter_tb
 make view TESTBENCH=counter_tb
